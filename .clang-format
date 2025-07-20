@@ -1,0 +1,17 @@
+IndentWidth: 4
+
+UseTab: Never
+
+AlignAfterOpenBracket: Align
+
+BraceWrapping:
+  AfterFunction: true
+  AfterControlStatement: true
+
+IndentCaseLabels: true
+
+AlignConsecutiveAssignments: true
+
+ColumnLimit: 100
+
+BasedOnStyle: Google 
