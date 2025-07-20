@@ -12,8 +12,8 @@ Used as a CLI Tool.
 <summary><strong>Dependencies</strong></summary>
 <br>
 - g++ (or gcc) v15.1.1 .
+<br>
 - [boost library](https://www.boost.org/doc/libs/latest/doc/html/program_options.html).
-
 ### Note:
 > I used this cheat sheet as a reference : [cheat sheet](https://www.keycdn.com/support/regex-cheat-sheet).
 
@@ -23,7 +23,9 @@ Used as a CLI Tool.
 
 <details>
 <summary><strong>Usage</strong></summary>
+
 > Compile it with:
+
 ```bash
 $ make compile 
 ```
